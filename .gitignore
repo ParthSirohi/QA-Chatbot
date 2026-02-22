@@ -11,6 +11,7 @@ pyvenv.cfg
 # Environment variables
 .env
 .env.local
+.streamlit/secrets.toml
 
 # Python
 __pycache__/
